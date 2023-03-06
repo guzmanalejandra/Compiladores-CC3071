@@ -6,3 +6,4 @@ los cuales van a ser utilizados durante todo el semestre para poder implementar 
 Listado de las implementaciones hasta el momento:
 
 Laboratorio 1: Implementacion AFN dada una expresión regular.
+Laboratorio 2: Implementación del AFD directo, de AFN a AFD.
